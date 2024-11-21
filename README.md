@@ -30,6 +30,7 @@ You can get the source code in two ways:
 In your project directory, install the necessary Python libraries:
 
 ```bash
+    pip install ollama
     pip install langchain 
     pip install langchain_core 
     pip install langchain-community
